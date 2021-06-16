@@ -23,7 +23,7 @@
             android:layout_weight=".5"
             android:background="@drawable/round_button"
             android:backgroundTint="@color/textfield"
-            android:hint="Consulta al bot.. "
+            android:hint="Escribe algo o saluda.. "
             android:inputType="textShortMessage"
             android:padding="10dp"
             android:singleLine="true" />
