@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#00BF6D</color>
+    <color name="purple_500">#00BF6D</color>
+    <color name="purple_700">#00BF6D</color>
+    <color name="teal_200">#FE9901</color>
+    <color name="teal_700">#DD8705</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark">#1D1D35</color>
+    <color name="light">#F5FCF9</color>
+    <color name="textfield">#DCEDEFEF</color>
+    <color name="chat_receive">#E3E2E2</color>
+
+    <color name="error">#F03738</color>
+    <color name="blue">#2196F3</color>
+</resources>
